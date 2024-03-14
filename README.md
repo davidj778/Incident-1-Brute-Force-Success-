@@ -69,7 +69,7 @@ https://imgur.com/D8S95Xu
 
 - Verify the authenticity of the alert or report.
 
-- Immediately isolate the machine and change the password of the affected user : 
+- Immediately isolate the machine and change the password of the affected user
 
 - Identify the origin of the attacks and determine if they are attacking or involved with anything else 
 
@@ -84,13 +84,15 @@ https://imgur.com/D8S95Xu
 **Containment and Recovery**
 
 - Lock down the NSG assigned to that VM/Subnet, either entirely, or to allow only necessary traffic
+![1](https://imgur.com/RiAv1X5.jpg)
+![1](https://imgur.com/qwJ3Si6.jpg)
+![1](https://imgur.com/RiAv1X5.jpg)
 
-
-
+- Reset the affected user's password
+- Enable MFA
 
 
 
 <h2>Step 4: Document Findings/Info and Clouse out the Incident in Sentinel</h2>
 
-## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://imgur.com/ypJkZ7U.jpg)
+![1](https://imgur.com/D8S95Xu.jpg)
