@@ -25,6 +25,7 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 ![1](https://imgur.com/2IDDJH8.jpg)
 ![1](https://imgur.com/mTvSWJC.jpg)
 15. If True Positive, continue, if False positive, close it out
+![1](https://imgur.com/D8S95Xu.jpg)
 
 
 
@@ -32,7 +33,6 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 
 
 
-https://imgur.com/D8S95Xu
 
 https://imgur.com/2ppbGoX
 https://imgur.com/qwJ3Si6
@@ -50,7 +50,7 @@ https://imgur.com/S3ORbbM
 https://imgur.com/fqmo2BZ
 https://imgur.com/mTvSWJC
 https://imgur.com/2IDDJH8
-
+https://imgur.com/D8S95Xu
 
 
 
