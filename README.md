@@ -8,16 +8,17 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 <h2>Step 2: Detection & Analysis</h2>
 
 1. Set Severity, Status, Owner
-2. View Full Details (New Experience)
-3. Observe the Activity Log (for history of incident)
-4. Observe Entities and Incident Timelines (are they doing anything else?)
-5. "Investigate" the incident and continue trying to determine the scope
-6. Inspect the entities and see if there are any related events
-7. Determine legitimacy of the incident (True Positive, False Positive, etc.)
-8. If True Positive, continue, if False positive, close it out
+![Architecture Diagram](https://imgur.com/w3fZ1Eb.jpg)
+3. View Full Details (New Experience)
+4. Observe the Activity Log (for history of incident)
+5. Observe Entities and Incident Timelines (are they doing anything else?)
+6. "Investigate" the incident and continue trying to determine the scope
+7. Inspect the entities and see if there are any related events
+8. Determine legitimacy of the incident (True Positive, False Positive, etc.)
+9. If True Positive, continue, if False positive, close it out
 
 https://imgur.com/ATqIK3K
-https://imgur.com/iTPZJEz
+
 https://imgur.com/S3ORbbM
 
 https://imgur.com/mTvSWJC
@@ -27,9 +28,6 @@ https://imgur.com/fqmo2BZ
 https://imgur.com/2ppbGoX
 https://imgur.com/qwJ3Si6
 https://imgur.com/RiAv1X5
-https://imgur.com/jNpjcq9
-https://imgur.com/oMjddi1
-
 
 
 
@@ -37,6 +35,10 @@ https://imgur.com/oMjddi1
 
 https://imgur.com/w3fZ1Eb
 https://imgur.com/5k8MxTi
+https://imgur.com/oMjddi1
+https://imgur.com/jNpjcq9
+https://imgur.com/iTPZJEz
+
 
 
 <h2>Step 3: Containment, Eradication, and Recovery</h2>
