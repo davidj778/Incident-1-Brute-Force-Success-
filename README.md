@@ -18,18 +18,20 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 5. "Investigate" the incident and continue trying to determine the scope
 ![1](https://imgur.com/iTPZJEz.jpg)
 ![1](https://imgur.com/ATqIK3K.jpg)
+![1](https://imgur.com/S3ORbbM.jpg)
 11. Inspect the entities and see if there are any related events
-12. Determine legitimacy of the incident (True Positive, False Positive, etc.)
-13. If True Positive, continue, if False positive, close it out
+![1](https://imgur.com/fqmo2BZ.jpg)
+13. Determine legitimacy of the incident (True Positive, False Positive, etc.)
+14. If True Positive, continue, if False positive, close it out
 
 
 
-https://imgur.com/S3ORbbM
+
 
 https://imgur.com/mTvSWJC
 https://imgur.com/2IDDJH8
 https://imgur.com/D8S95Xu
-https://imgur.com/fqmo2BZ
+
 https://imgur.com/2ppbGoX
 https://imgur.com/qwJ3Si6
 https://imgur.com/RiAv1X5
@@ -42,8 +44,8 @@ https://imgur.com/oMjddi1
 https://imgur.com/jNpjcq9
 https://imgur.com/iTPZJEz
 https://imgur.com/ATqIK3K
-
-
+https://imgur.com/S3ORbbM
+https://imgur.com/fqmo2BZ
 
 
 
