@@ -30,6 +30,17 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 
 
 
+Initial Response Actions
+• Verify the authenticity of the alert or report.
+Immediately isolate the machine and change the password of the affected user : endiate isinte the atchin and chamin the hey are a of in a rined us
+with anything else
+• Determine how and when the attack occurred
+Are the NSGs not being locked down? If so, check other NSGs
+• Assess the potential impact of the incident.
+What type of account was it? Permissions?
+Containment and Recovery
+• Lock down the NSG assigned to that VM/Subnet, either entirely, or to allow only necessary traffic
+
 
 
 
@@ -56,6 +67,16 @@ https://imgur.com/D8S95Xu
 
 
 <h2>Step 3: Containment, Eradication, and Recovery</h2>
+
+• Use the simple Incident Response PlayBook
+CUSTOM: Brute Force SUCCESS - Windows and Linux
+Incident Description
+• This incident involves observation of potential brute force attempts against a Windows VM.
+
+
+
+
+
 
 <h2>Step 4: Document Findings/Info and Clouse out the Incident in Sentinel</h2>
 
