@@ -27,7 +27,6 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 ![1](https://imgur.com/2IDDJH8.jpg)
 ![1](https://imgur.com/mTvSWJC.jpg)
 15. If True Positive, continue, if False positive, close it out
-![1](https://imgur.com/D8S95Xu.jpg)
 
 
 <h2>Step 3: Containment, Eradication, and Recovery</h2>
@@ -68,6 +67,6 @@ We integrated all logs into the Log Analytics Workspace and Sentinel, along with
 
 
 
-<h2>Step 4: Document Findings/Info and Clouse out the Incident in Sentinel</h2>
+<h2>Step 4: Document Findings/Info and Close out the Incident in Sentinel</h2>
 
 ![1](https://imgur.com/D8S95Xu.jpg)
