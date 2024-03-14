@@ -70,33 +70,33 @@ https://imgur.com/D8S95Xu
 
 <h2>Step 3: Containment, Eradication, and Recovery</h2>
 
-• Use the simple Incident Response PlayBook
+-- Use the simple Incident Response PlayBook
 
-CUSTOM: Brute Force SUCCESS - Windows and Linux
+--- CUSTOM: Brute Force SUCCESS - Windows and Linux
 
-Incident Description
+- Incident Description
 
-• This incident involves observation of potential brute force attempts against a Windows VM.
+-- This incident involves observation of potential brute force attempts against a Windows VM.
 
-Initial Response Actions
+- Initial Response Actions
 
-• Verify the authenticity of the alert or report.
+-- Verify the authenticity of the alert or report.
 
-Immediately isolate the machine and change the password of the affected user : 
+-- Immediately isolate the machine and change the password of the affected user : 
 
-Identify the origin of the attacks and determine if they are attacking or involved with anything else 
+-- Identify the origin of the attacks and determine if they are attacking or involved with anything else 
 
-• Determine how and when the attack occurred
+-- Determine how and when the attack occurred
 
-Are the NSGs not being locked down? If so, check other NSGs
+--- Are the NSGs not being locked down? If so, check other NSGs
 
-• Assess the potential impact of the incident.
+-- Assess the potential impact of the incident.
 
-What type of account was it? Permissions?
+--- What type of account was it? Permissions?
 
-Containment and Recovery
+- Containment and Recovery
 
-• Lock down the NSG assigned to that VM/Subnet, either entirely, or to allow only necessary traffic
+-- Lock down the NSG assigned to that VM/Subnet, either entirely, or to allow only necessary traffic
 
 
 
