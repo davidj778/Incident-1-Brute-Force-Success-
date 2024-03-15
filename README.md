@@ -5,7 +5,9 @@
 
 Handle the incidents generated within Azure Sentinel, following the NIST 800-61 Incident Management Lifecycle protocol.
 <p align="center">
-  ![1](https://imgur.com/5oSkomd.jpg)<\p>
+<img src="https://i.imgur.com/5oSkomd.png" alt=""/>
+</p>
+
 
 <h2>Step 1: Preparation</h2>
 We integrated all logs into the Log Analytics Workspace and Sentinel, along with setting up alert rules.
