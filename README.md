@@ -2,8 +2,9 @@
 
 # Incident 1 - Brute Force Success (Windows) - Working Incidents and Incident Response
 
-Handle the incidents generated within Azure Sentinel, following the NIST 800-61 Incident Management Lifecycle protocol.
 
+Handle the incidents generated within Azure Sentinel, following the NIST 800-61 Incident Management Lifecycle protocol.
+![1](https://imgur.com/5oSkomd.jpg)
 <h2>Step 1: Preparation</h2>
 We integrated all logs into the Log Analytics Workspace and Sentinel, along with setting up alert rules.
 
